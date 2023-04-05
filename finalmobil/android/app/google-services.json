@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044358936878",
+    "project_id": "finalmobile-503f3",
+    "storage_bucket": "finalmobile-503f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044358936878:android:a3f06b37610f5770d7e2bf",
+        "android_client_info": {
+          "package_name": "com.example.finalmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044358936878-od8f6fu82ud2bvml3r59iu1ieju4d2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9NXVcDzOgR16qTs3uYI9EMYLFIwXkQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044358936878-od8f6fu82ud2bvml3r59iu1ieju4d2o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
